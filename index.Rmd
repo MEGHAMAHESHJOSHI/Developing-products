@@ -1,6 +1,6 @@
 ---
 title: "My_First_Project"
-author: "Yatharth Sood"
+author: "Megha Joshi"
 date: "10/24/2021"
 output: html_document
 ---
